@@ -1,0 +1,80 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+    padding: 0;
+}
+a {
+    text-decoration: none;
+
+}
+
+nav a{
+    padding: 50px 50px 0px 0px;
+   background-image: url();
+}
+
+.logo{
+    display: inline-block;
+}
+
+
+.logo img{
+    width: 150px;
+    
+}
+
+div.menu li{
+    display: inline-block;
+    background-color: turquoise;
+    padding: 50px 50px 0px 50px;
+}
+
+
+.container {
+
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.form-wrapper{
+    display: inline-block;
+    padding: 10px 0px 50px 100px;
+}
+
+nav li{
+    display: inline-block;
+}
+
+.facebook img{
+    width: 20px;
+    
+}
+.twitter img{
+    width: 30px;
+}
+.instagram img{
+    width: 20px;
+}
+
+footer {
+
+	background-color:gray;
+	color: #fff;
+	text-align: center;
+}
+
+footer p{
+    font-size: 10px;
+    
+}
+
+
+
+
+.copyright {
+	background-color: turquoise;
+	color: #fff;
+	text-align: center;
+}
